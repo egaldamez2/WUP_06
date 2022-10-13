@@ -61,6 +61,14 @@ The plot demonstrates that attitudes towards capital punishment are dependent on
 
 ### Numerical Descriptive Results
 
+```{r}
+table1 <- xtabs(~race + cappun, data=mydata)
+rowPerc(table1)
+colPerc(table1)
+```
+
+The numerical demonstrate that 65 percent of white people favor capital punishment. Furthermore, The numerical results shows that 58 percent of black people oppose capital punishment. lastly, for all other races 55 percent are in favor of capital punishment, it seems like white people are more likely to be in favor of capital punishment followed by other races and likely black people and white people are the most in favor of capital punishment unlike the black people who are more against capital punishment. 
+
 <!--Numerical results go here. Use the numerical results to describe the patterns if any that exist in the data as focused toward the research question!-->
 
 
