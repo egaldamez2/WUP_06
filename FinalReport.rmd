@@ -32,6 +32,8 @@ If not, then whose view differs from whom??
 
 # Methods
 
+The types of variables in this problem consists of race and capital punishment. These are both categorical variables. therefor, it is appropriate to use the cat cat helper file. Race consists of three factors and capital punishment consists of two factors. 
+
 <!--Decide on your methods:  use "variable analysis" or other appropriate descriptors.  Make sure to choose at least one graphical method and at least one numerical method. Discuss what data manipulations may be needed for example subsetting or other binning procedures and what sort of graphical displays and inferential tools will be used!-->
 
 # Results
